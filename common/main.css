@@ -1,0 +1,30 @@
+body
+{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#main-logo
+{
+    float: left;
+}
+
+#main-buttons
+{
+    float: right;
+}
+
+.clearfix
+{
+    clear: both;
+}
+
+section
+{
+    margin: 10px 50px;
+}
+
+.search-adv
+{
+    float: right;
+}
