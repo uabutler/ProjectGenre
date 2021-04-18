@@ -1,0 +1,4 @@
+$(function ()
+{
+    $('.hintable').popup();
+});

@@ -7,3 +7,6 @@
 
 <!-- Common CSS -->
 <link rel="stylesheet" type="text/css" href="/common/main.css">
+
+<!-- Common JavaScript -->
+<link rel="stylesheet" type="text/css" href="/common/main.css">
