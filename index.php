@@ -1,4 +1,5 @@
-<!DOCTYPE html> <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <?php require 'common/head.php'; ?>
     <title>Project Genre</title>

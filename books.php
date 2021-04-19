@@ -31,7 +31,7 @@ function printCard($img, $link, $title, $desc)
     <div class="ui action input search-adv" style="width: 30%">
         <input type="text" placeholder="Title, ISBN, ...">
         <div class="ui basic compact button">Search</div>
-        <button class="ui basic icon button hintable" data-content="Advanced Search">
+        <button class="ui basic icon button hintable" data-content="Advanced Search" onclick="window.location='/adv-search.php'">
             <i class="cogs icon"></i>
         </button>
     </div>

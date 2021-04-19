@@ -126,3 +126,8 @@ th
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.ui.vertical.pointing.menu
+{
+    width: 100%;
+}
