@@ -131,3 +131,18 @@ th
 {
     width: 100%;
 }
+
+.reading-page-viewer
+{
+    background-color: lightgrey;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+.reading-page-paper
+{
+    background-color: white;
+    padding: 200px 50px 50px;
+    border: 1px solid;
+    box-shadow: 5px 10px 8px #888888;
+}

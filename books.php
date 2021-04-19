@@ -45,7 +45,7 @@ function printCard($img, $link, $title, $desc)
                 "/assets/book-covers/alice.png",
                 "#",
                 "Alice in Wonderland",
-                "A fantastic story about a girl who finds a cat in a whole"
+                "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
         <?= printCard
         (
@@ -107,7 +107,7 @@ function printCard($img, $link, $title, $desc)
             "/assets/book-covers/alice.png",
             "#",
             "Alice in Wonderland",
-            "A fantastic story about a girl who finds a cat in a whole"
+            "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
         <?= printCard
         (
@@ -127,7 +127,7 @@ function printCard($img, $link, $title, $desc)
             "/assets/book-covers/alice.png",
             "#",
             "Alice in Wonderland",
-            "A fantastic story about a girl who finds a car in a whole"
+            "A fantastic story about a girl who finds a car in a hole"
         ) ?>
         <?= printCard
         (

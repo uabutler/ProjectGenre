@@ -71,10 +71,10 @@
             <td>
                 <span class="calendar-date-number">
                     6
-                    <a href="#">
+                    <a href="/reading.php">
                     <div class="ui message meeting-info-box">
                         <div class="header">
-                            Alice in Wonderland
+                            A Tale of Two Cities
                         </div>
                         <p>3:00pm - 5:00pm</p>
                     </div>
@@ -127,10 +127,10 @@
             <td>
                 <span class="calendar-date-number">
                     20
-                    <a href="#">
+                    <a href="/reading.php">
                     <div class="ui message meeting-info-box">
                         <div class="header">
-                            Alice in Wonderland
+                            A Tale of Two Cities
                         </div>
                         <p>3:00pm - 5:00pm</p>
                     </div>
