@@ -18,7 +18,7 @@ function createHeader($active)
     (
         "Home" => "/index.php",
         "Schedule" => "/schedule.php",
-        "Books" => "/book.php",
+        "Books" => "/books.php",
         "Friends" => "/friends.php",
     );
 
@@ -28,10 +28,11 @@ function createHeader($active)
     echo
     '
     <div id="main-logo">
-        <h1>Project Genre</h1>
+        <img src="/assets/logo.png">
     </div>
     <div id="main-buttons">
-        <button class="ui">Log Out</button>
+        Hello John Doe!
+        <button class="ui button">Log Out</button>
     </div>
     ';
 

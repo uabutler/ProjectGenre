@@ -2,6 +2,7 @@ body
 {
     padding-right: 100px;
     padding-left: 100px;
+    overflow-y: scroll;
 }
 
 #main-logo
@@ -9,9 +10,23 @@ body
     float: left;
 }
 
+#main-logo img
+{
+    height: 100px;
+    margin: 10px;
+}
+
 #main-buttons
 {
     float: right;
+    height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+#main-buttons button
+{
+    margin-left: 10px;
 }
 
 .clearfix
@@ -27,4 +42,64 @@ section
 .search-adv
 {
     float: right;
+}
+
+.genre-display
+{
+    padding-top: 20px;
+}
+
+.genre-display-title
+{
+    float: left;
+}
+
+.genre-display-extra
+{
+    float: right;
+    padding-top: 1em;
+}
+
+.book-cover-img
+{
+    height: 400px !important;
+}
+
+.ui.link.cards.clearfix
+{
+    flex-wrap: nowrap;
+}
+
+th
+{
+    text-align: center !important;
+}
+
+.schedule-month-name
+{
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-variant-caps: small-caps;
+}
+
+.schedule-header
+{
+    margin-top: 25px;
+}
+
+.schedule-month-display
+{
+    float: left;
+}
+
+.schedule-new-button
+{
+    float: right;
+}
+
+.ui.fixed.celled.table
+{
+    margin-top: 15px;
 }
