@@ -99,7 +99,30 @@ th
     float: right;
 }
 
-.ui.fixed.celled.table
+.schedule-calendar
 {
     margin-top: 15px;
+}
+
+.schedule-calendar td
+{
+    height: 150px;
+    vertical-align: top;
+}
+
+.calendar-date-number.other-month
+{
+    color: lightgrey;
+}
+
+.meeting-info-box
+{
+    margin-top: 10px !important;
+}
+
+.header
+{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
