@@ -151,3 +151,15 @@ th
 {
     color: grey;
 }
+
+.home-page p {
+    margin: 0 0 0.1rem;
+}
+
+.home-page {
+    margin: 2rem !important;
+}
+
+.home-page .image.avatar.ui {
+    border-radius: 0 !important;
+}

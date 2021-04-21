@@ -22,8 +22,9 @@ function createHeader($active)
         "Friends" => "/friends.php",
     );
 
-    $formatter = new NumberFormatter("en", NumberFormatter::SPELLOUT);
-    $size = $formatter->format(count($links));
+    // $formatter = new NumberFormatter("en", NumberFormatter::SPELLOUT);
+    // $size = $formatter->format(count($links));
+    $size = four;
 
     echo
     '
