@@ -11,10 +11,10 @@
 <section>
     <div class="ui grid">
         <div class="four wide column">
-            <img src="/assets/book-covers/alice.png" style="margin-top: 20px; width: 100%">
+            <img src="/assets/book-covers/alice.png" style="margin-top: 20px; width: 100%;">
         </div>
         <div class="twelve wide column">
-            <div class="ui vertical labeled right floated icon buttons">
+            <div class="ui vertical labeled right floated icon buttons" style="margin-top: 20px;">
                 <button class="ui button">
                     <i class="plus icon"></i>Create Meeting
                 </button>

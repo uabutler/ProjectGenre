@@ -1,6 +1,16 @@
 $(function ()
 {
     $('.hintable').popup();
+    $('.popup-action').popup
+    ({
+       inline: true,
+       hoverable: true,
+       delay:
+           {
+               show: 0,
+               hide: 400
+           }
+    });
     $('.ui.dropdown').dropdown();
     $('#new-meeting-book').on('change', function() { 
         $("input[name='author']" ).val("Lewis Carroll");

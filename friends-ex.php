@@ -97,12 +97,19 @@
                         <span class="calendar-date-number">
                             3
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    1984
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        1984
+                                    </div>
+                                    <p>12:00 - 16:00</p>
                                 </div>
-                                <p>12:00 - 16:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
@@ -130,12 +137,19 @@
                         <span class="calendar-date-number">
                             10
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    1984
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        1984
+                                    </div>
+                                    <p>12:00 - 16:00</p>
                                 </div>
-                                <p>12:00 - 16:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
@@ -154,12 +168,19 @@
                         <span class="calendar-date-number">
                             14
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    Brave New World
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        Brave New World
+                                    </div>
+                                    <p>13:00 - 15:00</p>
                                 </div>
-                                <p>13:00 - 15:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
@@ -173,12 +194,19 @@
                         <span class="calendar-date-number">
                             17
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    1984
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        1984
+                                    </div>
+                                    <p>12:00 - 16:00</p>
                                 </div>
-                                <p>12:00 - 16:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
@@ -206,12 +234,19 @@
                         <span class="calendar-date-number">
                             24
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    1984
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        1984
+                                    </div>
+                                    <p>12:00 - 16:00</p>
                                 </div>
-                                <p>12:00 - 16:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
@@ -230,12 +265,19 @@
                         <span class="calendar-date-number">
                             28
                             <a href="#">
-                            <div class="ui message meeting-info-box">
-                                <div class="header">
-                                    Brave New World
+                                <div class="ui message meeting-info-box popup-action">
+                                    <div class="header">
+                                        Brave New World
+                                    </div>
+                                    <p>13:00 - 15:00</p>
                                 </div>
-                                <p>13:00 - 15:00</p>
-                            </div>
+                                <div class="ui flowing popup top transition hidden">
+                                    <p>Would you like to read this book and join this meeting too?</p>
+                                    <button class="ui right labeled icon button">
+                                        Request to Join
+                                        <i class="icon plus"></i>
+                                    </button>
+                                </div>
                             </a>
                         </span>
                     </td>
