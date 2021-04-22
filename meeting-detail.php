@@ -9,7 +9,7 @@
 <body>
     <header>
         <?php require 'common/header.php';
-        createHeader("Books"); ?>
+        createHeader("Schedule"); ?>
     </header>
     <section>
         <div class="ui grid">
