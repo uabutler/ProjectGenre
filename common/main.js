@@ -3,10 +3,10 @@ $(function ()
     $('.hintable').popup();
     $('.ui.dropdown').dropdown();
     $('#new-meeting-book').on('change', function() { 
-        $("input[name='author']" ).val("George Orwell");
-        $("input[name='isbn']" ).val("9781328869333");
-        $("input[name='genre']" ).val("Science Fiction, Political fiction, Social science fiction, Dystopian Fiction");
-        $("input[name='public-date']" ).val("06/08/1949");
+        $("input[name='author']" ).val("Lewis Carroll");
+        $("input[name='isbn']" ).val("0486275434");
+        $("input[name='genre']" ).val("Children, Fantasy, Adventure");
+        $("input[name='public-date']" ).val("11/26/1865");
      });
     $('.ui.rating.disabled').rating('disable');
     $('.ui.rating.ratable').rating();

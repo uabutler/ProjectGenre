@@ -128,7 +128,7 @@
                 </tr>
                 <tr>
                     <th>Publication Date:</th>
-                    <td>1865</td>
+                    <td>111/26/1865</td>
                 </tr>
                 <tr>
                     <th>Page Count:</th>
@@ -137,6 +137,10 @@
                 <tr>
                     <th>Publisher:</th>
                     <td>Macmillan</td>
+                </tr>
+                <tr>
+                    <th>ISBN:</th>
+                    <td>0486275434</td>
                 </tr>
                 </tbody>
             </table>

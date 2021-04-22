@@ -111,7 +111,7 @@
                 <button class="mini ui icon button" style="float:right;">
                     <i class="plus icon"></i>
                 </button>
-                <img class="ui avatar image" src="/assets/book-covers/1984.png">
+                <img class="ui avatar image" src="/assets/book-covers/F451.png">
                 <span style="text-decoration: underline;">Fahrenheit 451</span>
                 <p>Genres: <span class="people-list-info">Novel, Science Fiction, Drama, Political fiction, Dystopian Fiction</span></p>
             </a>
