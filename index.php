@@ -60,7 +60,7 @@
                 <span class="people-list-info">3:00pm - 5:00pm 04/28/2021</span></p>
                 <p><i class="users icon"></i>
                 <span class="people-list-info">John Doe, Erik Bacman, Jared Jackman, Jim Harper</span></p>
-                <p>Tags: <span class="people-list-info">Romance novel, Drama, Satire, Novel of manners, Domestic Fiction</span></p>
+                <p>Genres: <span class="people-list-info">Romance novel, Drama, Satire, Novel of manners, Domestic Fiction</span></p>
             </a>
             <a class="item" href="friends-ex.php">
                 <button class="mini ui icon button" style="float:right;">
@@ -72,7 +72,7 @@
                 <span class="people-list-info">3:00pm - 5:00pm 04/28/2021</span></p>
                 <p><i class="users icon"></i>
                 <span class="people-list-info">John Doe, Erik Bacman, Jared Jackman, Jim Harper</span></p>
-                <p>Tags: <span class="people-list-info">Novel, Adventure fiction, Science Fiction, Drama</span></p>
+                <p>Genres: <span class="people-list-info">Novel, Adventure fiction, Science Fiction, Drama</span></p>
             </a>
             <a class="item" href="friends-ex.php">
                 <button class="mini ui icon button" style="float:right;">
@@ -84,7 +84,7 @@
                 <span class="people-list-info">3:00pm - 5:00pm 04/28/2021</span></p>
                 <p><i class="users icon"></i>
                 <span class="people-list-info">John Doe, Erik Bacman, Jared Jackman, Jim Harper</span></p>
-                <p>Tags: <span class="people-list-info">Novel, Historical Fiction, Tragedy, Epic, Historical romance</span></p>
+                <p>Genres: <span class="people-list-info">Novel, Historical Fiction, Tragedy, Epic, Historical romance</span></p>
             </a>
         </div>
     </div>
@@ -97,7 +97,7 @@
                 </button>
                 <img class="ui avatar image" src="/assets/book-covers/pride.jpeg">
                 <span style="text-decoration: underline;">Pride and Prejudice</span>
-                <p>Tags: <span class="people-list-info">Romance novel, Drama, Satire, Novel of manners, Domestic Fiction</span></p>
+                <p>Genres: <span class="people-list-info">Romance novel, Drama, Satire, Novel of manners, Domestic Fiction</span></p>
             </a>
             <a class="item">
                 <button class="mini ui icon button" style="float:right;">
@@ -105,7 +105,7 @@
                 </button>
                 <img class="ui avatar image" src="/assets/book-covers/lesmiserables.jpeg">
                 <span style="text-decoration: underline;">Les Miserables</span>
-                <p>Tags: <span class="people-list-info">Novel, Historical Fiction, Tragedy, Epic, Historical romance</span></p>
+                <p>Genres: <span class="people-list-info">Novel, Historical Fiction, Tragedy, Epic, Historical romance</span></p>
             </a>
             <a class="item">
                 <button class="mini ui icon button" style="float:right;">
@@ -113,7 +113,7 @@
                 </button>
                 <img class="ui avatar image" src="/assets/book-covers/1984.png">
                 <span style="text-decoration: underline;">Fahrenheit 451</span>
-                <p>Tags: <span class="people-list-info">Novel, Science Fiction, Drama, Political fiction, Dystopian Fiction</span></p>
+                <p>Genres: <span class="people-list-info">Novel, Science Fiction, Drama, Political fiction, Dystopian Fiction</span></p>
             </a>
             <a class="item">
                 <button class="mini ui icon button" style="float:right;">
@@ -121,7 +121,7 @@
                 </button>
                 <img class="ui avatar image" src="/assets/book-covers/moby.png">
                 <span style="text-decoration: underline;">Moby Dick</span>
-                <p>Tags: <span class="people-list-info">Novel, Children's literature, Adventure fiction, Epic, Psychological Fiction, Nautical fiction</span></p>
+                <p>Genres: <span class="people-list-info">Novel, Children's literature, Adventure fiction, Epic, Psychological Fiction, Nautical fiction</span></p>
             </a>
         </div>
     </div>

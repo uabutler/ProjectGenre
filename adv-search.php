@@ -9,7 +9,7 @@
     <?php require 'common/header.php'; createHeader("Books"); ?>
 </header>
 <section class="ui form">
-    <h1 class="ui header">Advanced Search</h1>
+    <h1 class="ui header" style="text-align: center;">Advanced Search</h1>
     <div class="three fields">
         <div class="field">
             <label>Title</label>
