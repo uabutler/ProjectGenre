@@ -32,8 +32,11 @@ function createHeader($active)
         <img src="/assets/logo.png">
     </div>
     <div id="main-buttons">
-        Hello John Doe!
-        <button class="ui button">Log Out</button>
+        <span style="text-decoration: underline;"class="clickable" onclick="window.location=\'profile.php\'"> Hello John Doe!</span> 
+        &emsp;
+        <span style="text-decoration: underline;"class="clickable" onclick="window.location=\'login.php\'"> Log Out</span> 
+
+        
     </div>
     ';
 
