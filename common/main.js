@@ -8,8 +8,6 @@ $(function ()
         $("input[name='genre']" ).val("Science Fiction, Political fiction, Social science fiction, Dystopian Fiction");
         $("input[name='public-date']" ).val("06/08/1949");
      });
+    $('.ui.rating.disabled').rating('disable');
+    $('.ui.rating.ratable').rating();
 });
-
-
-
-

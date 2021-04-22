@@ -4,16 +4,16 @@ function printCard($img, $link, $title, $desc)
     return
     "
     <div class='ui card'>
-            <a class='image' href='$link'>
-                <img class='book-cover-img' src='$img' alt='$title'>
-            </a>
-            <div class='content'>
-                <a class='header' href='$link'>$title</a>
-                <div class='meta'>
-                    $desc
-                </div>
+        <a class='image' href='$link'>
+            <img class='book-cover-img' src='$img' alt='$title'>
+        </a>
+        <div class='content'>
+            <a class='header' href='$link'>$title</a>
+            <div class='meta'>
+                $desc
             </div>
         </div>
+    </div>
     ";
 }
 ?>
@@ -43,7 +43,7 @@ function printCard($img, $link, $title, $desc)
         <?= printCard
         (
                 "/assets/book-covers/alice.png",
-                "#",
+                "/book-ex.php",
                 "Alice in Wonderland",
                 "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
@@ -105,7 +105,7 @@ function printCard($img, $link, $title, $desc)
         <?= printCard
         (
             "/assets/book-covers/alice.png",
-            "#",
+            "/book-ex.php",
             "Alice in Wonderland",
             "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
@@ -125,7 +125,7 @@ function printCard($img, $link, $title, $desc)
         <?= printCard
         (
             "/assets/book-covers/alice.png",
-            "#",
+            "/book-ex.php",
             "Alice in Wonderland",
             "A fantastic story about a girl who finds a car in a hole"
         ) ?>
