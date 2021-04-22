@@ -19,7 +19,7 @@
                 <i class="icon angle right"></i>
             </button>
         </div>
-        <button class="ui right labeled icon button schedule-new-button">
+        <button class="ui right labeled icon button schedule-new-button" onclick="window.location='/new-meeting.php'">
             New Meeting
             <i class="icon plus"></i>
         </button>
@@ -71,10 +71,10 @@
             <td>
                 <span class="calendar-date-number">
                     6
-                    <a href="/reading.php">
+                    <a href="/meeting-detail.php">
                     <div class="ui message meeting-info-box">
                         <div class="header">
-                            A Tale of Two Cities
+                            Alice in Wonderland
                         </div>
                         <p>3:00pm - 5:00pm</p>
                     </div>
@@ -127,7 +127,7 @@
             <td>
                 <span class="calendar-date-number">
                     20
-                    <a href="/reading.php">
+                    <a href="/meeting-detail.php">
                     <div class="ui message meeting-info-box">
                         <div class="header">
                             A Tale of Two Cities
