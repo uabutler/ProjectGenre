@@ -48,15 +48,21 @@
     </div>
     <div class="field">
         <label>Keywords</label>
-        <div class="ui action input">
-            <input type="text" placeholder="keyword">
-            <select class="ui compact selection dropdown">
-                <option value="and">AND</option>
-                <option value="or">OR</option>
-                <option value="not">NOT</option>
-            </select>
-            <div class="ui icon button">
-                <i class="plus icon"></i>
+        <div class="fields">
+            <div class="two wide field">
+                <select class="ui fluid dropdown">
+                    <option>AND</option>
+                    <option>OR</option>
+                    <option>NOT</option>
+                </select>
+            </div>
+            <div class="fourteen wide field">
+                <div class="ui action input">
+                    <input type="text" placeholder="keyword">
+                    <div class="ui icon button">
+                        <i class="plus icon"></i>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
