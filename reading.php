@@ -13,24 +13,42 @@
     </header>
     <section id="reading-page">
         <div class="ui grid">
-            <div class="ten wide column">
+            <div class="eight wide column">
                 <div class="reading-page-viewer">
                     <div class="reading-page-paper">
                         <h1 style="text-align: center; font-family: cursive; font-size: 4em; margin-bottom: 50px;">Chapter 1</h1>
                         <p>
-                            It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its <mark class="hintable" data-html="<strong>John Doe: </strong> who do we think the author is refering to?">noisiest authorities</mark> insisted on its being received, for good or for evil, in the superlative degree of comparison only.
+                            It was the best of times, it was the worst of times, it was the age of wisdom, it was the
+                            age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the
+                            season of Light, it was the season of Darkness, it was the spring of hope, it was the winter
+                            of despair, we had everything before us, we had nothing before us, we were all going direct
+                            to Heaven, we were all going direct the other way—in short, the period was so far like the
+                            present period, that some of its
+                            <mark class="hintable" data-html="<strong>John Doe: </strong> who do we think the author is refering to?">noisiest authorities</mark>
+                            insisted on its being received, for good or for evil, in the superlative degree of comparison
+                            only.
                         </p>
                         <p>
-                            There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.
+                            There were a king with a large jaw and a queen with a plain face, on the throne of England;
+                            there were a king with a large jaw and a queen with a fair face, on the throne of France. In
+                            both countries it was clearer than crystal to the lords of the State preserves of loaves and
+                            fishes, that things in general were settled for ever.
                         </p>
                         <p>
-                            It was the year of Our Lord one thousand seven hundred and seventy-five. Spiritual revelations were conceded to England at that favoured period, as at this. Mrs. Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster. Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs. Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.
+                            It was the
+                            <mark class="hintable" data-html="<strong>Bob Bobertson: </strong> How does the year this happened change the way we view this story?">year of Our Lord one thousand seven hundred and seventy-five.</mark>
+                            Spiritual
+                            revelations were conceded to England at that favoured period, as at this. Mrs. Southcott had
+                            recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in
+                            the Life Guards had heralded the sublime appearance by announcing that arrangements were
+                            made for the swallowing up of London and Westminster. Even the Cock-lane ghost had been laid
+                            only a round dozen of years, after rapping out its messages, as the spirits of this very
+                            year last past (supernaturally deficient in originality) rapped out theirs. Mere messages
+                            in the earthly order of events had lately come to the English Crown and People, from a
+                            congress of British subjects in America: which, strange to relate, have proved more
+                            important to the human race than any communications yet received through any of the chickens
+                            of the Cock-lane brood.
                         </p>
-
-                        <p>
-                            It was the year of Our Lord one thousand seven hundred and seventy-five. Spiritual revelations were conceded to England at that favoured period, as at this. Mrs. Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster. Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs. Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.
-                        </p>
-
                         <p style="text-align: center; margin-top: 30px;">1</p>
                     </div>
                 </div>
@@ -60,59 +78,7 @@
                     </div>
                 </div>
             </div>
-            <div class="six wide column">
-                <div class="ui vertical pointing menu timestamp">
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Doe</span>
-                        </div>
-                        <p>p1: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Cena</span>
-                        </div>
-                        <p>p135: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Bapp</span>
-                        </div>
-                        <p>p253: Chap 3<span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Xoe</span>
-                        </div>
-                        <p>p139: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Moe</span>
-                        </div>
-                        <p>p500: Chap 3 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Wick</span>
-                        </div>
-                        <p>p100: Chap 1<span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">Johnson Johnson</span>
-                        </div>
-                        <p>p133: Chap 1<span class="people-list-info"></span></p>
-                    </a>
-                </div>
-
+            <div class="eight wide column">
                 <div class="ui grid">
                     <div class="eight wide column">
                         <button class="ui fluid button blue" style="margin-top:25px;" onclick="window.location='reading.php'"> <i class="video icon"></i> Video Call</button>
@@ -121,7 +87,6 @@
                         <button class="ui fluid button blue" style="margin-top:25px;" onclick="window.location='reading.php'">  <i class="phone icon"></i> Audio Call</button>
                     </div>
                 </div>
-
                 <div class="ui comments" style="margin-top: 25px;">
                     <div class="comment">
                         <a class="avatar">
@@ -252,6 +217,47 @@
                     </form>
                 </div>
             </div>
+        </div>
+    </section>
+    <section>
+        <h1 class="ui header">Bookmarks</h1>
+        <div class="ui vertical pointing menu timestamp">
+            <a class="item">
+                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span></p>
+                <div>
+                    <img class="ui avatar image" src="/assets/avatar.png">
+                    <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
+                    <span style="color: gray">who do we think the author is refering to?</span>
+                </div>
+                <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>noisiest authorities</b></p>
+            </a>
+            <a class="item">
+                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span></p>
+                <div>
+                    <img class="ui avatar image" src="/assets/avatar1.png">
+                    <span style="text-decoration: underline;">Bob Bobertson</span>'s note: &emsp;
+                    <span style="color: gray">How does the year this happened change the way we view this story?</span>
+                </div>
+                <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>year of Our Lord one thousand seven hundred and seventy-five.</b></p>
+            </a>
+            <a class="item">
+                <p style="float: right;">Ch. 3, Pg. 1 <span class="people-list-info"></span></p>
+                <div>
+                    <img class="ui avatar image" src="/assets/avatar2.png">
+                    <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
+                    <span style="color: gray">This chapter doesn't make a lot of sense to me, how to we think it fits into the story?</span>
+                </div>
+                <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>Chapter 3</b></p>
+            </a>
+            <a class="item">
+                <p style="float: right;">Ch. 6, Pg. 289 <span class="people-list-info"></span></p>
+                <div>
+                    <img class="ui avatar image" src="/assets/avatar3.png">
+                    <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
+                    <span style="color: gray">Wait, I think I'm reading the wrong book</span>
+                </div>
+                <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>He loved Big Brother.</b></p>
+            </a>
         </div>
     </section>
 </body>
