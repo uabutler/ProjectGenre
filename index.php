@@ -16,9 +16,9 @@
             <div class="column">
                 <h1 class="ui header clearfix">Upcoming Schedule</h1>
                 <div class="ui vertical pointing menu">
-                    <a class="item">
-                        <img class="ui avatar image" src="assets/book-covers/mockingbird.png">
-                        <span style="text-decoration: underline;">To Kill a Mockingbird</span>
+                    <a class="item" href="meeting-detail.php">
+                        <img class="ui avatar image" src="assets/book-covers/alice.png">
+                        <span style="text-decoration: underline;">Alice in Wonderland</span>
                         <p><i class="calendar alternate outline icon"></i>
                             <span class="people-list-info">3:00pm - 5:00pm 04/28/2021</span>
                         </p>

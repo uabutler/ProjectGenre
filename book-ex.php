@@ -15,7 +15,7 @@
         </div>
         <div class="twelve wide column">
             <div class="ui vertical labeled right floated icon buttons" style="margin-top: 20px;">
-                <button class="ui button">
+                <button class="ui button" onclick="window.location='new-meeting.php?book=aiw'">
                     <i class="plus icon"></i>Create Meeting
                 </button>
                 <button class="ui button">

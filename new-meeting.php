@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+  <script>
+    GET_MEETING = <?php echo isset($_GET['book']) ? "true" : "false"; ?>;
+  </script>
   <?php require 'common/head.php'; ?>
   <title>Project Genre</title>
 </head>
@@ -70,7 +73,6 @@
           <label>Book Title</label>
           <select class="ui search dropdown" id="new-meeting-book">
             <option value="">Select a book</option>
-            <option value="1984">Alice in Wonderland</option>
             <option value="at">A Tale of Two Cities</option>
             <option value="aw">Alice in Wonderland</option>
             <option value="bnw">Brave New World</option>
