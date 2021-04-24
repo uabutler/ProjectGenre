@@ -18,7 +18,7 @@
       <div class="column">
         <div class="field">
           <div class="fields">
-            <div class="five wide field">
+            <div class="six wide field">
               <label>Day</label>
               <input type="date">
             </div>
@@ -26,7 +26,27 @@
               <label>Start Time</label>
               <input type="time">
             </div>
-            <div class="six wide field">
+            <div class="five wide field">
+              <label>End Time</label>
+              <input type="time">
+            </div>
+          </div>
+        </div>
+
+        <div class="field">
+          <div class="fields">
+            <div class="eight wide field">
+              <label>Frequency</label>
+              <select class="ui search dropdown">
+                <option value="Virtual">Not Repeat</option>
+                <option value="Physical">Daily</option>
+                <option value="Physical">Weekly</option>
+                <option value="Physical">Monthly</option>
+                <option value="Physical">Custom</option>
+              </select>
+            </div>
+
+            <div class="eight wide field">
               <label>Privacy</label>
               <select class="ui search dropdown">
                 <option value="Virtual">Friends</option>
@@ -54,7 +74,7 @@
             <label>Use In-book Discussion <i class="star icon hintable" data-content="Please subscribe to our Premium Package to access this feature"></i></label>
           </div>
         </div> -->
-       
+
 
         <div class="field">
           <label>Description</label>
@@ -78,28 +98,38 @@
             <option value="m">Moby Dick</option>
           </select>
         </div>
-          <div class="field">
-            <label>Author</label>
-            <input type="text" name="author" readonly placeholder="">
-          </div>
-         
+        <div class="field">
+          <label>Author</label>
+          <input type="text" name="author" readonly placeholder="">
+        </div>
+
         <div class="field">
           <label>Genre</label>
           <input type="text" name="genre" readonly placeholder="">
         </div>
 
         <div class="field">
+          <label>ISBN</label>
+          <input type="text" name="isbn" placeholder="">
+        </div>
+
+        <div class="field">
+          <label>Publication Date</label>
+          <input type="text" name="public-date" placeholder="">
+        </div>
+
+        <!-- <div class="field">
           <div class="fields">
             <div class="eight wide field">
-            <label>ISBN</label>
+              <label>ISBN</label>
               <input type="text" name="isbn" placeholder="">
             </div>
             <div class="eight wide field">
-            <label>Publication Date</label>
-              <input type="text" name="public-date" placeholder="Apt #">
+              <label>Publication Date</label>
+              <input type="text" name="public-date" placeholder="">
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </div>
