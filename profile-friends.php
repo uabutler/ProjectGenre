@@ -19,9 +19,9 @@
           <a class="item">
             <span><i class="user icon"> </i>Profile</span>
           </a>
-          <a class="item active">
+          <!-- <a class="item active">
             <span><i class="users icon"> </i> Friends</span>
-          </a>
+          </a> -->
           <a class="item" href="profile-reading.php">
             <span><i class="book icon"> </i>Reading List</span>
           </a>
