@@ -12,11 +12,16 @@
     createHeader(""); ?>
   </header>
   <section>
+    <div class="ui success message center" style="max-width: 500px; margin-bottom: 30px;">
+      <div class="header">Success</div>
+      <p>You have sucessfully changed your password.</p>
+    </div>
+
     <div class="ui grid">
       <div class="four wide column">
         <img class="circular image center" src="assets/avatar.png" style="width: 60%">
         <div class="ui vertical pointing menu">
-        <a class="item" href="profile.php">
+          <a class="item" href="profile.php">
             <span><i class="user icon"> </i>Profile</span>
           </a>
           <a class="item" href="profile-friends.php">
@@ -38,21 +43,11 @@
           </div>
 
           <div class="field">
-            <label>Confirm Old Password</label>
-            <input type="password" >
+            <label>Password</label>
+            <input type="password" value="1232434523543">
           </div>
 
-          <div class="field">
-            <label>New Password</label>
-            <input type="password" >
-          </div>
-
-          <div class="field">
-            <label>Confirm New Password</label>
-            <input type="password" >
-          </div>
-
-          <button onclick="window.location='password-success.php'" style="float:right" class="ui button blue">Confirm Change</button>
+          <button onclick="window.location='profile-security.php'" style="float:right" class="ui button blue">Confirm Change</button>
         </div>
       </div>
   </section>

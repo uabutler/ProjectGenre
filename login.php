@@ -7,6 +7,13 @@
 </head>
 
 <body class="auth-container">
+    <div id="main-logo">
+        <img src="/assets/logo.png">
+    </div>
+    <div id="main-buttons">
+        <span style="text-decoration: underline;" class="clickable" onclick="window.location='profile.php'">Welcome!</span>
+        &emsp;
+    </div>
     <div class="ui one column centered grid auth">
         <div class="column "></div>
         <div class="ui form">
@@ -16,10 +23,10 @@
             </div>
             <div class="field">
                 <label>Password</label>
-                <input type="password" >
+                <input type="password">
             </div>
             <div class="field">
-                <label>Don't have an account? &nbsp; Click <span style="text-decoration: underline;" class="clickable" onclick="window.location='signup.php'" >here</span> to sign up!</label>
+                <label>Don't have an account? &nbsp; Click <span style="text-decoration: underline;" class="clickable" onclick="window.location='signup.php'">here</span> to sign up!</label>
             </div>
             <button class="ui button blue" onclick="window.location='index.php'" type="submit">Log In</button>
         </div>

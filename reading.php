@@ -61,7 +61,7 @@
                 </div>
             </div>
             <div class="six wide column">
-                <div class="ui vertical pointing menu timestamp">
+                <!-- <div class="ui vertical pointing menu timestamp">
                     <a class="item">
                         <div style="float:right;">
                             <img class="ui avatar image" src="/assets/avatar.png">
@@ -111,7 +111,7 @@
                         </div>
                         <p>p133: Chap 1<span class="people-list-info"></span></p>
                     </a>
-                </div>
+                </div> -->
 
                 <div class="ui grid">
                     <div class="eight wide column">
@@ -150,7 +150,7 @@
                                 <div class="date">2 days ago</div>
                             </div>
                             <div class="text">
-                                <p>If I'm being honest, I don't really know what he said.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
                             </div>
                             <div class="actions">
                                 <a class="reply">Reply</a>
@@ -167,7 +167,7 @@
                                 <div class="date">1 day ago</div>
                             </div>
                             <div class="text">
-                                <p>What do you mean?</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                             </div>
                             <div class="actions">
                                 <a class="reply">Reply</a>
