@@ -14,35 +14,35 @@
             <h1 class="ui header">Friends List</h1>
             <div class="ui vertical pointing menu">
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar.png">
+                    <img class="ui avatar image" src="assets/avatar.png">
                     <span>John Doe</span>
                 </a>
                 <a class="item" href="friends-ex.php">
-                    <img class="ui avatar image" src="/assets/avatar1.png">
+                    <img class="ui avatar image" src="assets/avatar1.png">
                     <span>Bob Brown</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar2.png">
+                    <img class="ui avatar image" src="assets/avatar2.png">
                     <span>Charlie Chapel</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar3.png">
+                    <img class="ui avatar image" src="assets/avatar3.png">
                     <span>Dave David</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar.png">
+                    <img class="ui avatar image" src="assets/avatar.png">
                     <span>John Doe</span>
                 </a>
                 <a class="item" href="friends-ex.php">
-                    <img class="ui avatar image" src="/assets/avatar1.png">
+                    <img class="ui avatar image" src="assets/avatar1.png">
                     <span>Bob Brown</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar2.png">
+                    <img class="ui avatar image" src="assets/avatar2.png">
                     <span>Charlie Chapel</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="/assets/avatar3.png">
+                    <img class="ui avatar image" src="assets/avatar3.png">
                     <span>Dave David</span>
                 </a>
             </div>
@@ -74,7 +74,7 @@
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
                     </button>
-                    <img class="ui avatar image" src="/assets/avatar.png">
+                    <img class="ui avatar image" src="assets/avatar.png">
                     <span style="text-decoration: underline;">John Doe</span>
                     <p>Reading List: <span class="people-list-info">Brave New World</span></p>
                 </a>
@@ -82,7 +82,7 @@
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
                     </button>
-                    <img class="ui avatar image" src="/assets/avatar1.png">
+                    <img class="ui avatar image" src="assets/avatar1.png">
                     <span style="text-decoration: underline;">Bob Brown</span>
                     <p>Reading List: <span class="people-list-info">1984, Alice in Wonderland</span></p>
                 </a>
@@ -90,7 +90,7 @@
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
                     </button>
-                    <img class="ui avatar image" src="/assets/avatar2.png">
+                    <img class="ui avatar image" src="assets/avatar2.png">
                     <span style="text-decoration: underline;">Charlie Chapel</span>
                     <p>Reading List: <span class="people-list-info">Tale of Two Cities</span></p>
                 </a>
@@ -98,7 +98,7 @@
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
                     </button>
-                    <img class="ui avatar image" src="/assets/avatar3.png">
+                    <img class="ui avatar image" src="assets/avatar3.png">
                     <span style="text-decoration: underline;">Dave David</span>
                     <p>Reading List: <span class="people-list-info">Moby Dick</span></p>
                 </a>

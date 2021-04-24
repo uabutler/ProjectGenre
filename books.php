@@ -31,7 +31,7 @@ function printCard($img, $link, $title, $desc)
     <div class="ui action input search-adv" style="width: 30%">
         <input type="text" placeholder="Title, ISBN, ...">
         <div class="ui basic compact button">Search</div>
-        <button class="ui basic icon button hintable" data-content="Advanced Search" onclick="window.location='/adv-search.php'">
+        <button class="ui basic icon button hintable" data-content="Advanced Search" onclick="window.location='adv-search.php'">
             <i class="cogs icon"></i>
         </button>
     </div>
@@ -42,35 +42,35 @@ function printCard($img, $link, $title, $desc)
     <div class="ui link cards clearfix">
         <?= printCard
         (
-                "/assets/book-covers/alice.png",
-                "/book-ex.php",
+                "assets/book-covers/alice.png",
+                "book-ex.php",
                 "Alice in Wonderland",
                 "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/1984.png",
+            "assets/book-covers/1984.png",
             "#",
             "1984",
             "A story about a society that has managed to get rid of almost all crime"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/brave.png",
+            "assets/book-covers/brave.png",
             "#",
             "Brave New World",
             "People are finally always happy and free of genetic illness"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/F451.png",
+            "assets/book-covers/F451.png",
             "#",
             "Fahrenheit 451",
             "An entire society insists that we will all wait for the movie"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/moby.png",
+            "assets/book-covers/moby.png",
             "#",
             "Moby Dick",
             "A wannabe fisherman is unable to catch just one fish"
@@ -83,35 +83,35 @@ function printCard($img, $link, $title, $desc)
     <div class="ui link cards clearfix">
         <?= printCard
         (
-            "/assets/book-covers/moby.png",
+            "assets/book-covers/moby.png",
             "#",
             "Moby Dick",
             "A wannabe fisherman is unable to catch just one fish"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/F451.png",
+            "assets/book-covers/F451.png",
             "#",
             "Fahrenheit 451",
             "An entire society insists that we will all wait for the movie"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/1984.png",
+            "assets/book-covers/1984.png",
             "#",
             "1984",
             "A story about a society that has managed to get rid of almost all crime"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/alice.png",
-            "/book-ex.php",
+            "assets/book-covers/alice.png",
+            "book-ex.php",
             "Alice in Wonderland",
             "A fantastic story about a girl who finds a cat in a hole"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/brave.png",
+            "assets/book-covers/brave.png",
             "#",
             "Brave New World",
             "People are finally always happy and free of genetic illness"
@@ -124,35 +124,35 @@ function printCard($img, $link, $title, $desc)
     <div class="ui link cards clearfix">
         <?= printCard
         (
-            "/assets/book-covers/alice.png",
-            "/book-ex.php",
+            "assets/book-covers/alice.png",
+            "book-ex.php",
             "Alice in Wonderland",
             "A fantastic story about a girl who finds a car in a hole"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/1984.png",
+            "assets/book-covers/1984.png",
             "#",
             "1984",
             "A story about a society that has managed to get rid of almost all crime"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/brave.png",
+            "assets/book-covers/brave.png",
             "#",
             "Brave New World",
             "People are finally always happy and free of genetic illness"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/F451.png",
+            "assets/book-covers/F451.png",
             "#",
             "Fahrenheit 451",
             "An entire society insists that we will all wait for the movie"
         ) ?>
         <?= printCard
         (
-            "/assets/book-covers/moby.png",
+            "assets/book-covers/moby.png",
             "#",
             "Moby Dick",
             "A wannabe fisherman is unable to catch just one fish"

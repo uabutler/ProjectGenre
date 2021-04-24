@@ -16,10 +16,10 @@ function createHeader($active)
 {
     $links = array
     (
-        "Home" => "/index.php",
-        "Schedule" => "/schedule.php",
-        "Books" => "/books.php",
-        "Friends" => "/friends.php",
+        "Home" => "index.php",
+        "Schedule" => "schedule.php",
+        "Books" => "books.php",
+        "Friends" => "friends.php",
     );
 
     // $formatter = new NumberFormatter("en", NumberFormatter::SPELLOUT);
@@ -29,7 +29,7 @@ function createHeader($active)
     echo
     '
     <div id="main-logo">
-        <img src="/assets/logo.png">
+        <img src="assets/logo.png">
     </div>
     <div id="main-buttons">
         <span style="text-decoration: underline;"class="clickable" onclick="window.location=\'profile.php\'"> Hello John Doe!</span> 

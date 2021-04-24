@@ -14,7 +14,7 @@
     <section>
         <div class="ui grid">
             <div class="four wide column">
-                <img onclick="window.location='book-ex.php'" class="clickable" src="/assets/book-covers/alice.png" style="margin-top: 20px; width: 100%">
+                <img onclick="window.location='book-ex.php'" class="clickable" src="assets/book-covers/alice.png" style="margin-top: 20px; width: 100%">
             </div>
             <div class="twelve wide column">
                 <div class="ui vertical labeled right floated icon buttons">
