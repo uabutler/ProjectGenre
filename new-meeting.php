@@ -101,23 +101,23 @@
           </select>
         </div>
         <div class="field">
-          <label>Author</label>
-          <input type="text" name="author" readonly placeholder="">
-        </div>
-
-        <div class="field">
-          <label>Genre</label>
-          <input type="text" name="genre" readonly placeholder="">
-        </div>
-
-        <div class="field">
           <label>ISBN</label>
           <input type="text" name="isbn" placeholder="">
         </div>
 
-        <div class="field">
+        <div class="field disabled">
+          <label>Author</label>
+          <input type="text" name="author" readonly placeholder="">
+        </div>
+
+        <div class="field disabled">
+          <label>Genre</label>
+          <input type="text" name="genre" readonly placeholder="">
+        </div>
+
+        <div class="field disabled">
           <label>Publication Date</label>
-          <input type="text" name="public-date" placeholder="">
+          <input type="text" name="public-date" readonly placeholder="">
         </div>
 
         <!-- <div class="field">
