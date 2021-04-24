@@ -38,9 +38,9 @@ function printCard($img, $link, $title, $desc)
         <a class="item" href="profile.php">
             <span><i class="user icon"> </i>Profile</span>
           </a>
-          <a class="item" href="profile-friends.php">
+          <!-- <a class="item" href="profile-friends.php">
             <span><i class="users icon"> </i> Friends</span>
-          </a>
+          </a> -->
           <a class="item active" href="profile-reading.php">
             <span><i class="book icon"> </i>Reading List</span>
           </a>
