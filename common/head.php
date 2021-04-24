@@ -6,7 +6,7 @@
 <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
 
 <!-- Common JavaScript -->
-<script src="/common/main.js"></script>
+<script src="common/main.js"></script>
 
 <!-- Common CSS -->
-<link rel="stylesheet" type="text/css" href="/common/main.css">
+<link rel="stylesheet" type="text/css" href="common/main.css">

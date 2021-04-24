@@ -16,31 +16,15 @@
 
     <div class="ui two column grid">
       <div class="column">
-        <!-- <div class="field">
-          <div class="fields">
-            <div class="five wide field">
-              <label>Location</label>
-              <select class="ui search dropdown">
-                <option value="Virtual">Virtual</option>
-                <option value="Physical">Physical</option>
-              </select>
-            </div>
-            <div class="eleven wide field">
-              <label>Address</label>
-              <input type="text" placeholder="Street Address or Link">
-            </div>
-          </div>
-        </div> -->
-
         <div class="field">
           <div class="fields">
             <div class="five wide field">
-              <label>Time</label>
+              <label>Day</label>
               <input type="date">
             </div>
             <div class="five wide field">
-              <label>Maximum Participants</label>
-              <input type="number">
+              <label>Start Time</label>
+              <input type="time">
             </div>
             <div class="six wide field">
               <label>Privacy</label>
