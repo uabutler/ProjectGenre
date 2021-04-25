@@ -9,7 +9,7 @@
         let TEXT = null;
         let MARK = null;
 
-        let COMMENT_POPUP =
+        const COMMENT_POPUP =
             `
             <div class="ui action input">
               <input type="text" placeholder="Bookmark comment">
