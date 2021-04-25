@@ -43,11 +43,21 @@
           </div>
 
           <div class="field">
-            <label>Password</label>
-            <input type="password" value="1232434523543">
+            <label>Confirm Old Password</label>
+            <input type="password">
           </div>
 
-          <button onclick="window.location='profile-security.php'" style="float:right" class="ui button blue">Confirm Change</button>
+          <div class="field">
+            <label>New Password</label>
+            <input type="password">
+          </div>
+
+          <div class="field">
+            <label>Confirm New Password</label>
+            <input type="password">
+          </div>
+
+          <button onclick="window.location='password-success.php'" style="float:right" class="ui button blue">Confirm Change</button>
         </div>
       </div>
   </section>
