@@ -13,7 +13,7 @@
         <div class="eight wide column">
             <h1 class="ui header">Friends List</h1>
             <div class="ui vertical pointing menu">
-            <a class="item" href="friends-ex.php">
+                <a class="item">
                     <img class="ui avatar image" src="assets/avatar1.png">
                     <span>Bob Brown</span>
                 </a>
@@ -74,7 +74,7 @@
                     <span style="text-decoration: underline;">John Doe</span>
                     <p>Reading List: <span class="people-list-info">Brave New World</span></p>
                 </a>
-                <a class="item" href="friends-ex.php">
+                <a class="item">
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
                     </button>

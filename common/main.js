@@ -22,12 +22,9 @@ $(function ()
     $('.ui.rating.disabled').rating('disable');
     $('.ui.rating.ratable').rating();
 
-    if (typeof GET_MEETING !== undefined)
+    if (GET_MEETING)
     {
-      if (GET_MEETING)
-      {
         $('#new-meeting-book').dropdown('set selected', 'aw');
         updateBook();
-      }
     }
 });

@@ -14,36 +14,32 @@
             <h1 class="ui header">Friends List</h1>
             <div class="ui vertical pointing menu">
                 <a class="item">
-                    <img class="ui avatar image" src="assets/avatar.png">
-                    <span>John Doe</span>
-                </a>
-                <a class="active item">
                     <img class="ui avatar image" src="assets/avatar1.png">
                     <span>Bob Brown</span>
                 </a>
+                <a class="active item" href="friends-ex.php">
+                    <img class="ui avatar image" src="assets/avatar2.png">
+                    <span>Bob Brownie</span>
+                </a>
+                <a class="item">
+                    <img class="ui avatar image" src="assets/avatar3.png">
+                    <span>Charlie Chapel</span>
+                </a>
+                <a class="item">
+                    <img class="ui avatar image" src="assets/avatar1.png">
+                    <span>Charlie Chapelie</span>
+                </a>
                 <a class="item">
                     <img class="ui avatar image" src="assets/avatar2.png">
-                    <span>Charlie Chapel</span>
+                    <span>Dave David</span>
                 </a>
                 <a class="item">
                     <img class="ui avatar image" src="assets/avatar3.png">
                     <span>Dave David</span>
                 </a>
                 <a class="item">
-                    <img class="ui avatar image" src="assets/avatar.png">
-                    <span>John Doe</span>
-                </a>
-                <a class="item" href="friends-ex.php">
                     <img class="ui avatar image" src="assets/avatar1.png">
-                    <span>Bob Brown</span>
-                </a>
-                <a class="item">
-                    <img class="ui avatar image" src="assets/avatar2.png">
-                    <span>Charlie Chapel</span>
-                </a>
-                <a class="item">
-                    <img class="ui avatar image" src="assets/avatar3.png">
-                    <span>Dave David</span>
+                    <span>John Doe</span>
                 </a>
             </div>
         </div>
