@@ -4,6 +4,58 @@
 <head>
     <?php require 'common/head.php'; ?>
     <title>Project Genre</title>
+    <script>
+        let SELECTION = null;
+        let TEXT = null;
+        let MARK = null;
+
+        let COMMENT_POPUP =
+            `
+            <div class="ui action input">
+              <input type="text" placeholder="Bookmark comment">
+              <button class="ui icon button">
+                <i class="plus icon"></i>
+              </button>
+            </div>
+            `;
+
+        function highlightSelection()
+        {
+            // If there is a selection, remove it
+            if (MARK)
+            {
+                MARK.remove();
+                SELECTION.insertNode(TEXT);
+            }
+
+            // Get the text
+            SELECTION = window.getSelection().getRangeAt(0);
+            TEXT = SELECTION.extractContents();
+
+            if (TEXT.textContent !== "")
+            {
+                // Create the selected text
+                MARK = document.createElement('mark');
+                MARK.id = "reading-page-paper-selection";
+                MARK.appendChild(TEXT.cloneNode(true));
+                SELECTION.insertNode(MARK);
+
+                let mark_element = $('#reading-page-paper-selection');
+                mark_element.popup({html: COMMENT_POPUP, on: "manual"});
+                mark_element.popup('show');
+            }
+
+            if (window.getSelection().empty)
+                window.getSelection().empty();
+            else if (window.getSelection().removeAllRanges)
+                window.getSelection().removeAllRanges();
+        }
+
+        $(function ()
+        {
+            $('.reading-page-paper').on('mouseup', highlightSelection)
+        });
+    </script>
 </head>
 
 <body>
@@ -81,58 +133,6 @@
                 </div>
             </div>
             <div class="six wide column">
-                <!-- <div class="ui vertical pointing menu timestamp">
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Doe</span>
-                        </div>
-                        <p>p1: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Cena</span>
-                        </div>
-                        <p>p135: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Bapp</span>
-                        </div>
-                        <p>p253: Chap 3<span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Xoe</span>
-                        </div>
-                        <p>p139: Chap 1 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Moe</span>
-                        </div>
-                        <p>p500: Chap 3 <span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">John Wick</span>
-                        </div>
-                        <p>p100: Chap 1<span class="people-list-info"></span></p>
-                    </a>
-                    <a class="item">
-                        <div style="float:right;">
-                            <img class="ui avatar image" src="/assets/avatar.png">
-                            <span style="text-decoration: underline;">Johnson Johnson</span>
-                        </div>
-                        <p>p133: Chap 1<span class="people-list-info"></span></p>
-                    </a>
-                </div> -->
-
                 <div class="ui grid">
                     <div class="eight wide column">
                         <button class="ui fluid button blue" style="margin-top:25px;" onclick="window.location='reading.php'"> <i class="video icon"></i> Video Call</button>
