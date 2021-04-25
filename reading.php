@@ -279,7 +279,14 @@
         <h1 class="ui header">Bookmarks</h1>
         <div class="ui vertical pointing menu timestamp">
             <a class="item">
-                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span></p>
+                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span>
+                    <br>
+                    <span class="float: right">
+                    <i style="margin-top: 10px; margin-left:30px;"class="edit icon"></i>
+                    <i class="trash icon"></i>
+                    </span>
+                </p>
+                
                 <div>
                     <img class="ui avatar image" src="assets/avatar.png">
                     <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
@@ -288,7 +295,11 @@
                 <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>noisiest authorities</b></p>
             </a>
             <a class="item">
-                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span></p>
+                <p style="float: right;">Ch. 1, Pg. 1 <span class="people-list-info"></span>
+                <br>
+                    <span class="float: right">
+                    <i style="margin-top: 10px; margin-left:30px;"class="edit icon"></i>
+                    <i class="trash icon"></i></p>
                 <div>
                     <img class="ui avatar image" src="assets/avatar1.png">
                     <span style="text-decoration: underline;">Bob Bobertson</span>'s note: &emsp;
@@ -297,7 +308,11 @@
                 <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>year of Our Lord one thousand seven hundred and seventy-five.</b></p>
             </a>
             <a class="item">
-                <p style="float: right;">Ch. 3, Pg. 1 <span class="people-list-info"></span></p>
+                <p style="float: right;">Ch. 3, Pg. 1 <span class="people-list-info"></span>
+                <br>
+                    <span class="float: right">
+                    <i style="margin-top: 10px; margin-left:30px;"class="edit icon"></i>
+                    <i class="trash icon"></i></p>
                 <div>
                     <img class="ui avatar image" src="assets/avatar2.png">
                     <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
@@ -306,7 +321,11 @@
                 <p style="margin-left: 25px;"><i class="icon left quote"></i> <b>Chapter 3</b></p>
             </a>
             <a class="item">
-                <p style="float: right;">Ch. 6, Pg. 289 <span class="people-list-info"></span></p>
+                <p style="float: right;">Ch. 6, Pg. 289 <span class="people-list-info"></span>
+                <br>
+                    <span class="float: right">
+                    <i style="margin-top: 10px; margin-left:40px;"class="edit icon"></i>
+                    <i class="trash icon"></i></p>
                 <div>
                     <img class="ui avatar image" src="assets/avatar3.png">
                     <span style="text-decoration: underline;">John Doe</span>'s note: &emsp;
