@@ -9,11 +9,15 @@
     <?php require 'common/header.php'; createHeader("Friends"); ?>
 </header>
 <section>
+<div class="ui success message center" style="max-width: 500px; margin-bottom: 30px;">
+      <div class="header">Success</div>
+      <p>You have sucessfully added <strong>John Doe</strong> as friends.</p>
+    </div>
     <div class="ui grid">
         <div class="eight wide column">
             <h1 class="ui header">Friends List</h1>
             <div class="ui vertical pointing menu">
-            <a class="item" href="friends-ex.php">
+                <a class="item" href="friends-ex.php">
                     <img class="ui avatar image" src="assets/avatar1.png">
                     <span>Bob Brown</span>
                 </a>
@@ -39,6 +43,11 @@
                 </a>
                 <a class="item">
                     <img class="ui avatar image" src="assets/avatar1.png">
+                    <span>John Moe</span>
+                </a>
+                <a class="item">
+                    <img class="ui avatar image" src="assets/avatar.png">
+                    <span style="float: right; padding-top: 5px; margin:2px;" class="label">New</span>
                     <span>John Doe</span>
                 </a>
             </div>
@@ -66,14 +75,6 @@
             </form>
             <h1 class="ui header clearfix">Recommended Friends</h1>
             <div class="ui vertical pointing menu">
-                <a class="item">
-                    <button onclick="window.location='friends-success.php'" class="mini ui icon button" style="float:right;">
-                        <i class="plus icon"></i>
-                    </button>
-                    <img class="ui avatar image" src="assets/avatar.png">
-                    <span style="text-decoration: underline;">John Doe</span>
-                    <p>Reading List: <span class="people-list-info">Brave New World</span></p>
-                </a>
                 <a class="item" href="friends-ex.php">
                     <button class="mini ui icon button" style="float:right;">
                         <i class="plus icon"></i>
@@ -97,6 +98,14 @@
                     <img class="ui avatar image" src="assets/avatar3.png">
                     <span style="text-decoration: underline;">Dave David</span>
                     <p>Reading List: <span class="people-list-info">Moby Dick</span></p>
+                </a>
+                <a class="item">
+                    <button class="mini ui icon button" style="float:right;">
+                        <i class="plus icon"></i>
+                    </button>
+                    <img class="ui avatar image" src="assets/avatar1.png">
+                    <span style="text-decoration: underline;">Dave Charles</span>
+                    <p>Reading List: <span class="people-list-info">White Fang</span></p>
                 </a>
             </div>
         </div>
