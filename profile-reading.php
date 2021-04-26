@@ -35,7 +35,7 @@ function printCard($img, $link, $title, $desc)
       <div class="four wide column">
         <img class="circular image center" src="assets/avatar.png" style="width: 60%">
         <div class="ui vertical pointing menu">
-        <a class="item" href="profile.php">
+          <a class="item" href="profile.php">
             <span><i class="user icon"> </i>Profile</span>
           </a>
           <!-- <a class="item" href="profile-friends.php">
@@ -50,8 +50,8 @@ function printCard($img, $link, $title, $desc)
         </div>
       </div>
       <div class="twelve wide column">
-      <div class="ui action input right-align" style="float: right; width: 30%;">
-          <input type="text" >
+        <div class="ui action input right-align" style="float: right; width: 30%;">
+          <input type="text">
           <div class="ui basic compact button">Search</div>
           </button>
         </div>
